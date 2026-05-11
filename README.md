@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,8 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 ## Sorting
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 <!---LeetCode Topics End-->
