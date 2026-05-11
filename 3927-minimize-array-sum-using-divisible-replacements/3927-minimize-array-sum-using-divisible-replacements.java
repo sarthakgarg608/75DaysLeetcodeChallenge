@@ -1,7 +1,5 @@
 class Solution {
     public long minArraySum(int[] nums) {
-        Arrays.sort(nums);
-
         int n = nums.length;
         HashSet<Integer> set = new HashSet<>();
 
@@ -12,24 +10,15 @@ class Solution {
 
         long ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            long ele = nums[i];
+        for (int ele : nums) {
             long res = ele;
-
             for (int j = 2; j * j <= ele; j++) {
-
                 if (ele % j != 0) continue;
-
-                if (set.contains(j))
-                    res = Math.min(res, j);
-
-                if (set.contains((int)(ele / j)))
-                    res = Math.min(res, ele / j);
+                if (set.contains(j)) res = Math.min(res, j);
+                if (set.contains((int)(ele / j))) res = Math.min(res, ele / j);
             }
-
             ans += res;
         }
-
         return ans;
     }
 }
