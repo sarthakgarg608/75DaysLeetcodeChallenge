@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 ## Two Pointers
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
