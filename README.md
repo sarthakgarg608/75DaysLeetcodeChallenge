@@ -43,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
