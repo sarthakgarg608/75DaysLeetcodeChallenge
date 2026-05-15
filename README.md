@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -75,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
