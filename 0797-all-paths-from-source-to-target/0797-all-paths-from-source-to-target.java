@@ -7,10 +7,7 @@ class Solution {
             ans.remove(ans.size()-1);
             return;
         }
-        if(graph[node].length == 0){
-            ans.remove(ans.size()-1);
-            return ;
-        }
+        
         for(int i =0;i<graph[node].length;i++){
             dfs(graph,graph[node][i] , target, ans,result);
         }
