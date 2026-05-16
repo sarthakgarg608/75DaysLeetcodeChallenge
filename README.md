@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
