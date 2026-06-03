@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0419-battleships-in-a-board) |
+| [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
