@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
