@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
