@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
