@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2140-solving-questions-with-brainpower) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2320-count-number-of-ways-to-place-houses) |
