@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
 |  |
 | ------- |
