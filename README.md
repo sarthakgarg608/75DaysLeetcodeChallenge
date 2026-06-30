@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2140-solving-questions-with-brainpower](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Matrix
 |  |
 | ------- |
