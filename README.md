@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Math
 |  |
@@ -194,9 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Game Theory
 |  |
 | ------- |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
+## Hash Table
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
