@@ -1,41 +1,36 @@
 class Solution {
-    public int maxDistance(int[] position, int m) {
-        int n = position.length;
-        Arrays.sort(position);
+    public boolean canPlace(int[] pos , int m ,int dist ){
+        int ct = 1;
+        int lastPlaced = pos[0];
 
-        int low = 1;
-        int high = position[n - 1] - position[0];
-        int ans = 0;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canPlace(position, m, mid)) {
-                ans = mid;      // mid is possible
-                low = mid + 1;  // try for a larger minimum distance
-            } else {
-                high = mid - 1; // reduce the distance
+        for(int i = 1; i < pos.length; i++){
+            if(pos[i] - lastPlaced >= dist){
+                ct += 1;
+                lastPlaced = pos[i];
             }
-        }
 
-        return ans;
-    }
-
-    private boolean canPlace(int[] position, int m, int dist) {
-        int count = 1; // Place first ball at the first position
-        int lastPlaced = position[0];
-
-        for (int i = 1; i < position.length; i++) {
-            if (position[i] - lastPlaced >= dist) {
-                count++;
-                lastPlaced = position[i];
-
-                if (count == m) {
-                    return true;
-                }
-            }
+            if(ct == m) return true;
         }
 
         return false;
+    }
+    public int maxDistance(int[] pos, int m) {
+        int n = pos.length;
+        Arrays.sort(pos);
+
+        int lo = 1;                 // minimum distance 
+        int hi = pos[n-1] - pos[0];  // maximum distance
+        int ans = 0;
+
+        while(lo <= hi){
+            int mid = lo + (hi-lo)/2;
+
+            if(canPlace(pos,m,mid)){ 
+                ans = mid;    // Try for longer distance 
+                lo = mid+1;
+            }else hi = mid-1;  // can't place try for minimum dist
+        }
+        return ans;
+        
     }
 }
