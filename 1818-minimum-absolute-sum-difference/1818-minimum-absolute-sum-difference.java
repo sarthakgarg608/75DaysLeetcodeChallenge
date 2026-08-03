@@ -3,7 +3,7 @@ class Solution {
     // Returns the index of the first element >= target
     public int findClosestElement(int[] nums, int target) {
         int lo = 0, hi = nums.length - 1;
-        int ans = nums.length-1;
+        int ans = nums.length;
 
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
