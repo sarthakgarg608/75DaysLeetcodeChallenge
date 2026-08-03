@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
@@ -210,9 +213,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 ## Hash Table
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
