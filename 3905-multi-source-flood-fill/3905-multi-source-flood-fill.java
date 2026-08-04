@@ -9,21 +9,19 @@ class Solution {
     public int[][] colorGrid(int n, int m, int[][] sources) {
 
         int[][] ans = new int[n][m];
+        Queue<Triplets> que = new LinkedList<>();
+
+        // We can sort the sources 2D Array based on color value
+        Arrays.sort(sources, (a,b) -> Integer.compare(a[2] ,b[2]));
         
-        // Max Heap based on 'color value'
-        PriorityQueue<Triplets> pq = new PriorityQueue<>(
-            (x, y) -> Integer.compare(y.val, x.val)
-        );
 
         int len = sources.length;  // expected TC = O(len log(len)); 
-        for(int i = 0 ; i < len ; i++){
+        for(int i = len-1 ; i >= 0 ; i--){
             int r = sources[i][0] , c = sources[i][1] , color = sources[i][2];
-            pq.offer(new Triplets(color,r,c));
+            que.add(new Triplets(color,r,c));
             ans[r][c] = color;
         }
 
-        Queue<Triplets> que = new LinkedList<>();
-        while(!pq.isEmpty()) que.add(pq.poll());
 
         int[] dr = {-1,0,1,0};
         int[] dc = {0,1,0,-1};
