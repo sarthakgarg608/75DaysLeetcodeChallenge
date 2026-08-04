@@ -1,12 +1,10 @@
 class Solution {
     public int maxDistance(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        Arrays.sort(nums1);
+
         int ans = 0;
+
         for(int i = 0 ;i < nums2.length;i++){
-            int low = nums1.length-1-i;
-            int high = nums1.length-1;
-            if(low < 0) low = 0;
+            int low = 0 , high = Math.min(i,nums1.length-1);
 
             int mxIdx = -1;
             while(low <= high){
@@ -17,10 +15,7 @@ class Solution {
                 }else high = mid-1;
             }
 
-            low = nums1.length-1-i;
-            high = nums1.length-1;
-            if(low < 0) low = 0;
-
+            low = 0; high = Math.min(i,nums1.length-1);
             int mnIdx = -1;
             while(low <= high){
                 int mid = low + (high-low)/2;
@@ -30,8 +25,8 @@ class Solution {
                 }else low = mid+1;
             }
             
-            if(mxIdx != -1) ans = Math.max(ans,i-(n-1-mxIdx));
-            if(mnIdx != -1) ans = Math.max(ans,i-(n-1-mnIdx));
+            if(mxIdx != -1) ans = Math.max(ans,i-mxIdx);
+            if(mnIdx != -1) ans = Math.max(ans,i-mnIdx);
 
         }
         return ans;
