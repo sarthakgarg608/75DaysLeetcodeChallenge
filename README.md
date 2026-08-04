@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2140-solving-questions-with-brainpower](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2140-solving-questions-with-brainpower) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 ## Greedy
 |  |
