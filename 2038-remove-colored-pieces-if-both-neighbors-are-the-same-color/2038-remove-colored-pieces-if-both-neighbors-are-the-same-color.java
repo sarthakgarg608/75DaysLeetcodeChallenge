@@ -13,7 +13,7 @@ class Solution {
         */
 
         
-        int ctAlice = 0;
+        int ctAlice = 0 , ctBob = 0;
         int i = 0;
         while(i < colors.length()){
             if(colors.charAt(i) == 'A'){
@@ -30,13 +30,7 @@ class Solution {
                 i = j;
 
 
-            }else i++;
-        }
-
-        int ctBob = 0;
-        i = 0;
-        while(i < colors.length()){
-            if(colors.charAt(i) == 'B'){
+            }else{
                 int j = i+1;
                 while(j < colors.length()){
                     if(colors.charAt(j) == 'B'){
@@ -49,8 +43,7 @@ class Solution {
                 }
                 i = j;
 
-
-            }else i++;
+            }
         }
 
         if(ctAlice > ctBob) return true;
