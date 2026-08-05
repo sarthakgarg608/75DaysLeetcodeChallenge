@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0419-battleships-in-a-board) |
+| [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3905-multi-source-flood-fill](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3905-multi-source-flood-fill) |
 ## Graph Theory
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Minimax
 |  |
