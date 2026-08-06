@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 | [3905-multi-source-flood-fill](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3905-multi-source-flood-fill) |
 ## Graph Theory
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Minimax
 |  |
 | ------- |
@@ -251,4 +257,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
+## Union-Find
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
