@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
