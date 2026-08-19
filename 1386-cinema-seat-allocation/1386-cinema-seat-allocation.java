@@ -20,12 +20,12 @@ class Solution {
         int ans = (n-size) * 2;
 
         for(int row : map.keySet()){
-            List<Integer> list = map.get(row);
+            
             boolean left = true;   // seats 2,3,4,5
     boolean middle = true; // seats 4,5,6,7
     boolean right = true;  // seats 6,7,8,9
 
-    for (int seat : list) {
+    for (int seat : map.get(row)) {
         if (seat >= 2 && seat <= 5) {
             left = false;
         }
