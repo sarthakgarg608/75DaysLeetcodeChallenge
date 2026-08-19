@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0969-pancake-sorting) |
+| [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Memoization
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
+| [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Minimax
