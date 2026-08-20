@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3686-number-of-stable-subsequences](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3686-number-of-stable-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3905-multi-source-flood-fill](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3905-multi-source-flood-fill) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3686-number-of-stable-subsequences](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3686-number-of-stable-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Bit Manipulation
