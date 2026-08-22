@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3685-subsequence-sum-after-capping-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3686-number-of-stable-subsequences](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3686-number-of-stable-subsequences) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Memoization
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
+| [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 ## Math
 |  |
 | ------- |
