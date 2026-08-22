@@ -5,31 +5,26 @@ class Solution {
             require[i] = target[i] - nums[i];
         }
 
-        int l = 0 , r = 0;
-        long ans = 0;
-        while(r < nums.length){
-            if((require[l]>= 0 && require[r] >= 0) || (require[l] < 0 && require[r] < 0)) r++;
-            else {
-                r -= 1;
-                // we have block of same sign require[l...r];
-                ans += Math.abs(require[l]);
-                for(int i = l+1 ; i <= r; i++){
-                    // we are calculating extra if it decrease that means no need extra operation or increase need extra operation
-                    ans += Math.max(0,Math.abs(require[i])-Math.abs(require[i-1]));
-                }
-                l = r+1;
-                r++;
+        long ans = Math.abs(require[0]);
+        boolean prev;
+        if(require[0] >= 0) prev = true;
+        else prev = false;
+
+        // true -> positive , false -> negative
+        for(int i = 1; i < nums.length; i++){
+            boolean curr;
+            if(require[i] >= 0) curr = true;
+            else curr = false;
+            if((curr && prev) || (!curr && !prev)){
+                // both are same sign 
+                long extra = Math.max(0,Math.abs(require[i]) - Math.abs(require[i-1]));
+                ans += extra;
+            }else {
+                // sign changed either + -> - or - --> +  we need to add this value 
+                ans += Math.abs(require[i]);
+                prev = curr;
             }
         }
-
-        // for example we have require [1,2,3,4] then else will never execute 
-        r -= 1;
-        ans += Math.abs(require[l]);
-        for(int i = l+1 ; i <= r; i++){
-            // we are calculating extra if it decrease that means no need extra operation or increase need extra operation
-            ans += Math.max(0,Math.abs(require[i])-Math.abs(require[i-1]));
-        }
-
         return ans;
     }
 }
