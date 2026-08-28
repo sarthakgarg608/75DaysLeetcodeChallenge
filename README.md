@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2140-solving-questions-with-brainpower](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2140-solving-questions-with-brainpower) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Sorting
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Monotonic Queue
