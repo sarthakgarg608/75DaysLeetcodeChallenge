@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Minimax
 |  |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 <!---LeetCode Topics End-->
