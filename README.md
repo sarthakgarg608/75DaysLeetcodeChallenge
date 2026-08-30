@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3366-minimum-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3366-minimum-array-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
+| [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
+| [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 | [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 ## Math
 |  |
