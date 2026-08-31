@@ -19,8 +19,8 @@ class Solution {
                 while(set.contains(nums[r])){
                     set.remove(nums[l]);
                     l++;
-                    len = r-l+1;
                 }
+                len = r-l+1;
                 set.add(nums[r]);
             }
             
