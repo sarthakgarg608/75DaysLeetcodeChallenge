@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Game Theory
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Minimax
 |  |
