@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 ## Greedy
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Prefix Sum
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1906-minimum-absolute-difference-queries](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1906-minimum-absolute-difference-queries) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 | [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Game Theory
 |  |
