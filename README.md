@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3332-maximum-points-tourist-can-earn) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Game Theory
 |  |
 | ------- |
