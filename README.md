@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Game Theory
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
