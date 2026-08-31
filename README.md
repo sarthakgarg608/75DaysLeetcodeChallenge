@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Game Theory
 |  |
