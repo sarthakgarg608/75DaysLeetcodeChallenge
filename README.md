@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Heap (Priority Queue)
 |  |
@@ -260,12 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## String
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
 |  |
