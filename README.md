@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [3152-special-array-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3152-special-array-ii) |
 ## Greedy
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3599-partition-array-to-minimize-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3599-partition-array-to-minimize-xor) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Game Theory
