@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
