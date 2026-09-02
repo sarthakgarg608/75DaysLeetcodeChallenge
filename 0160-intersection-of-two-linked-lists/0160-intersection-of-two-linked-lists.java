@@ -10,35 +10,20 @@
  * }
  */
 public class Solution {
-    public ListNode collisonPoint(ListNode temp1 , ListNode temp2, int d){
-        while(d != 0){
-            d--;
-            temp2 = temp2.next;
-        }
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        // let's say head1 has length n1 and head2 as n2 and the difference d if n1 traverse n1 + n2 and head2 traverse n2+n1 the distance travelled by both node same and at a certain point we will we having same point
 
+        ListNode temp1 = headA , temp2 = headB;
         while(temp1 != temp2){
             temp1 = temp1.next;
             temp2 = temp2.next;
+
+            if(temp1 == temp2) return temp1;
+
+            if(temp1 == null) temp1 = headB;
+            if(temp2 == null) temp2 = headA;
         }
+
         return temp1;
-    }
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode temp1 = headA;
-        ListNode temp2 = headB;
-        int n1 = 0 , n2 = 0;
-        while(temp1 != null){
-            n1++;
-            temp1 = temp1.next;
-        }
-
-        while(temp2 != null){
-            n2++;
-            temp2 = temp2.next;
-        }
-
-        // collisonPoint(smaller , greater , dist)
-
-        if(n1 < n2) return collisonPoint(headA,headB,n2-n1);
-        else return collisonPoint(headB,headA,n1-n2);
     }
 }
