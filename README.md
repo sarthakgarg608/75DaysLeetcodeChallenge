@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0826-most-profit-assigning-work](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0870-advantage-shuffle) |
 | [0948-bag-of-tokens](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0815-bus-routes](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0815-bus-routes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
