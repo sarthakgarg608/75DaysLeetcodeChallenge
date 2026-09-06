@@ -397,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 | [1729-find-followers-count](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
