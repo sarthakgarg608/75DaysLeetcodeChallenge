@@ -390,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
