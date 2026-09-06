@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 | [1729-find-followers-count](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
