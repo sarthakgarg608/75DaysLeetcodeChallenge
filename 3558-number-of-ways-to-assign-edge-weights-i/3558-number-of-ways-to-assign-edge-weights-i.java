@@ -34,14 +34,11 @@ class Solution {
             adj.get(e[i][1]).add(e[i][0]);
         };
         int depth = findDepth(1,adj,vis);
-        int[][] dp = new int[depth+1][2];
+        int[][] dp = new int[depth+1][3];
         for(int[] arr : dp) Arrays.fill(arr,-1);
 
-        int ans1 = solve(2,depth,0,dp); // add weight 2 
-        for(int[] arr : dp) Arrays.fill(arr,-1);
-        int ans2 = solve(2,depth,1,dp); // add weight 1
-        
-        return (ans1+ans2)%(mod);
+        int ans1 = solve(1,depth,2,dp);
+        return (ans1)%(mod);
 
 
     }
