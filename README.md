@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Depth-First Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [0934-shortest-bridge](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0934-shortest-bridge) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
 | [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Sliding Window
 |  |
 | ------- |
