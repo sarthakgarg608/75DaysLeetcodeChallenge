@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3905-multi-source-flood-fill](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3905-multi-source-flood-fill) |
+| [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
+| [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0934-shortest-bridge) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2049-count-nodes-with-the-highest-score) |
 | [3607-power-grid-maintenance](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3607-power-grid-maintenance) |
+| [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-number-of-stable-subsequences](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3686-number-of-stable-subsequences) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3965-finish-time-of-tasks-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/3965-finish-time-of-tasks-i) |
 ## Bit Manipulation
 |  |
 | ------- |
