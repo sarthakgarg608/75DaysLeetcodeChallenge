@@ -1,19 +1,14 @@
-# Write your MySQL query statement below
-with cte as(select *
-from requestaccepted
+WITH cte AS (
+    SELECT requester_id AS id
+    FROM RequestAccepted
 
-union all 
-select accepter_id , requester_id , accept_date
-from requestaccepted),
-cte2 as (
-select requester_id , count(*) as num
-from cte
-group by requester_id),
-cte3 as (
-    select *,
-    row_number() over(order by num desc) as rnk
-    from cte2
+    UNION ALL
+
+    SELECT accepter_id AS id
+    FROM RequestAccepted
 )
-select requester_id as id , num 
-from cte3
-where rnk = 1;
+SELECT id, COUNT(*) AS num
+FROM cte
+GROUP BY id
+ORDER BY num DESC
+LIMIT 1;
