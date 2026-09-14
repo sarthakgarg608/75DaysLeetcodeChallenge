@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1070-product-sales-analysis-iii) |
+| [1193-monthly-transactions-i](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1729-find-followers-count](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
