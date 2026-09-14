@@ -2,7 +2,7 @@ SELECT
     s.user_id,
     ROUND(
         IFNULL(
-            count(CASE WHEN c.action = 'confirmed' THEN 1 END),
+            sum(CASE WHEN c.action = 'confirmed' THEN 1 END),
             0
         ) / COUNT(*),
         2
