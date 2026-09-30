@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1406-stone-game-iii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1690-stone-game-vii](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1405-longest-happy-string) |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
+| [1425-constrained-subsequence-sum](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1425-constrained-subsequence-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
