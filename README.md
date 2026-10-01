@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2762-continuous-subarrays](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2762-continuous-subarrays) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-count-number-of-ways-to-place-houses](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2560-house-robber-iv](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2919-minimum-increment-operations-to-make-array-beautiful](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2919-minimum-increment-operations-to-make-array-beautiful) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/2944-minimum-number-of-coins-for-fruits) |
