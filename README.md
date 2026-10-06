@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/sarthakgarg608/75DaysLeetcodeChallenge/tree/master/0619-biggest-single-number) |
